@@ -14,5 +14,5 @@ def bubble_sort(array):
 
 if __name__ == "__main__":
     array = [4, 2, 7, 9, 1, 14, 6, 8, 2]
-    sorted_array = bubble_sort(array)
-    print(sorted_array)
+    bubble_sort(array)
+    print(array)
